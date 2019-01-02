@@ -7,7 +7,7 @@ import java.util.Arrays;
 import org.junit.Test;
 
 import com.atlassian.jira.rest.client.api.domain.Issue;
-import com.create.jira.MainClass;
+
 import com.create.jira.MyJiraClient;
 
 import junit.framework.TestCase;
